@@ -4,9 +4,9 @@ void setup() {
 }
 
 //🎯Variable Declarations Go Here
-var leftX = 45;
-var rightX = 370;
-var sunRadius = 100;
+var leftX = 180;
+var rightX = 240;
+var sunRadius = 150;
 
 
 //🟢Draw Function - Runs on Repeat
